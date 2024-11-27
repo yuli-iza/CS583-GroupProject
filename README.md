@@ -19,7 +19,7 @@ Alina Antonova - Art/design/animation
 
 Yulianna Izaguirre - Sound/audio and gameplay design
 
-__Gameplay:__ The end goal for the player in our 3D game is to navigate their character—a penguin—through a course within a given time. We are referencing the game mechanics of Super Monkey Ball while making changes to the overall design and user control/navigation of the course. Our game will have a fatigue attribute to challenge the players ability to complete the course within a given time. It is still unclear on the course we can take with the fatigue attribute, whether it be in reduced speed or reduced visibility of environment/course. Our game course is Arctic themed with ‘icy’ smoother platforms and snowy patches along the course to either impede or support the character movement and navigation through the course within the allotted time. The icy platforms are intended to be harder to “control” the  characters navigation of the course (speed increase, no resistance, slippery) while the snowy can slow down the character either to aid in the player control or to slow them down (helpful but can be used to kill time and increase difficulty). 
+__Gameplay:__ The end goal for the player in our 3D game is to navigate their character—a penguin—through a course within a given time to reach home. We are referencing the game mechanics of Super Monkey Ball while making changes to the overall design and user control/navigation of the course. Our game will have a fatigue attribute to challenge the players ability to complete the course within a given time. It is still unclear on the course we can take with the fatigue attribute, whether it be in reduced speed or reduced visibility of environment/course. Our game course will start with Arctic themes in the course with ‘icy’ smoother platforms and snowy patches along the course to either impede or support the character movement and navigation through the course within the allotted time. The icy platforms are intended to be harder to “control” the  characters navigation of the course (speed increase, no resistance, slippery) while the snowy can slow down the character either to aid in the player control or to slow them down (helpful but can be used to kill time and increase difficulty). As the player passes each course to reach home our path/course design will change environments (grass, desert, etc.) 
 
 **Controls:**
 The controls will be mouse and keyboard:
@@ -37,7 +37,7 @@ The controls will be mouse and keyboard:
 **Audio Assets:**
 * __Environment:__ If there is a change in platform/environment texture that affects the characters movement we can apply an auditive indicator for this change such as crunching or shuffling through thicker/softer snow.
 * __Movement:__ If the characters speed increases or they are going down hill on the course we can apply wind/air sounds.
-* __Collection:__ Add small 
+* __Collection:__ Add small chime/ding for collection
 
 **Game Flow:**
 - __Main Menu:__ Players can start the game, view controls, choose a player, or exit.
