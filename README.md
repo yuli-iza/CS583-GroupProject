@@ -1,5 +1,6 @@
 # CS583- 3D Group Game Project: Penguin Snow Spin
 __Group Members:__
+
 Nadjim Noori
 
 Sukruti Mallesh
@@ -9,9 +10,13 @@ Alina Antonova
 Yulianna Izaguirre
 
 __General Goals:__
+
 Nadjim Noori - Code
+
 Sukruti Mallesh - Code
+
 Alina Antonova - Art/design/animation
+
 Yulianna Izaguirre - Sound/audio and gameplay design
 
 __Gameplay:__ The end goal for the player in our 3D game is to navigate their character—a penguin—through a course within a given time. We are referencing the game mechanics of Super Monkey Ball while making changes to the overall design and user control/navigation of the course. Our game will have a fatigue attribute to challenge the players ability to complete the course within a given time. It is still unclear on the course we can take with the fatigue attribute, whether it be in reduced speed or reduced visibility of environment/course. Our game course is Arctic themed with ‘icy’ smoother platforms and snowy patches along the course to either impede or support the character movement and navigation through the course within the allotted time. The icy platforms are intended to be harder to “control” the  characters navigation of the course (speed increase, no resistance, slippery) while the snowy can slow down the character either to aid in the player control or to slow them down (helpful but can be used to kill time and increase difficulty). 
