@@ -1,8 +1,11 @@
 # CS583- 3D Group Game Project: Penguin Snow Spin
 __Group Members:__
 Nadjim Noori
+
 Sukruti Mallesh
+
 Alina Antonova
+
 Yulianna Izaguirre
 
 __General Goals:__
@@ -25,16 +28,19 @@ The controls will be mouse and keyboard:
 * Background images for different environments 
 * UI elements 
 * Animation assets for running, jumping and sliding.
+  
 **Audio Assets:**
 * __Environment:__ If there is a change in platform/environment texture that affects the characters movement we can apply an auditive indicator for this change such as crunching or shuffling through thicker/softer snow.
 * __Movement:__ If the characters speed increases or they are going down hill on the course we can apply wind/air sounds.
 * __Collection:__ Add small 
+
 **Game Flow:**
 - __Main Menu:__ Players can start the game, view controls, choose a player, or exit.
 - __Level Selection:__ Players will have one level 
 - __Gameplay:__ Players navigate the arctic environment and collect ‘coins’
 - __Level Completion:__ Players complete the level upon collecting a certain number of ‘coins’ before the timer runs out or reaches the end of the level.
 - __Game Over:__ If the penguin falls or slips off the path the game ends, displaying the score.
+
 **Challenges:**
 * Designing different outfits for penguin character in blender
 * Creating smooth gameplay for collecting coins, speed increases when going downhill, and a slippery course when the course is icy.
