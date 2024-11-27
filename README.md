@@ -1,6 +1,4 @@
-# CS583- 3D Group Game Project: 
-
-# Rolling Home: A Penguin's Adventure
+# CS583 3D Group Game Project - Rolling Home: A Penguin's Adventure
 __Group Members:__
 
 Nadjim Noori
