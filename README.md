@@ -1,4 +1,6 @@
-# CS583- 3D Group Game Project: Penguin Snow Spin
+# CS583- 3D Group Game Project: 
+
+# Rolling Home: A Penguin's Adventure
 __Group Members:__
 
 Nadjim Noori
