@@ -73,7 +73,6 @@ Rolling Home: A Penguin's Adventure is a fast-paced 3D speedrunning game where p
 **Audio Assets:**
 - Sound effects sourced from Pixabay and Unity Asset Store:
   - Environmental sounds
-  - 3D Game Objects
   - Sound effects
  
 
