@@ -1,5 +1,9 @@
 # CS583 3D Group Game Project - Rolling Home: A Penguin's Adventure
 
+**Google Drive Link for the exe and video:**
+- Video demonstraton: https://drive.google.com/file/d/1oPTYGR-ONiTnaqd5Zxvi3PvD71uL6nSm/view?usp=sharing
+- Game exe:           https://drive.google.com/file/d/1X8V3j7O2wYGL6Vz0-F7Mq1tieA7OGZFf/view?usp=sharing
+
 **Group Members:**
 - Nadjim Noori
 - Sukruti Mallesh
