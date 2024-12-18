@@ -36,8 +36,8 @@ Rolling Home: A Penguin's Adventure is a fast-paced 3D speedrunning game where p
 
 **Level Design & Environments:**
 - 10 diverse levels with unique themes:
-  - Snow-covered landscapes
-  - Desert environments
+  - Snow-covered landscape
+  - Desert environment
   - Forest settings
   - Dark atmospheric areas
 - Dynamic obstacles and moving platforms
@@ -53,7 +53,7 @@ Rolling Home: A Penguin's Adventure is a fast-paced 3D speedrunning game where p
 
 **Audio & Music:**
 - Music manager with 4 selectable tracks
-- Environmental sound effects
+- Sound effect when target is reached
 
 **Game Statistics & Progress Tracking:**
 - Individual level highscores
@@ -71,11 +71,11 @@ Rolling Home: A Penguin's Adventure is a fast-paced 3D speedrunning game where p
   - Visual effects
 
 **Audio Assets:**
-- Sound effects sourced from Pixabay:
+- Sound effects sourced from Pixabay and Unity Asset Store:
   - Environmental sounds
-  - Movement effects
-  - Collection sounds
-- Background music tracks
+  - 3D Game Objects
+  - Sound effects
+ 
 
 **Player Motivation:**
 - Speedrunning emphasis for higher scores
